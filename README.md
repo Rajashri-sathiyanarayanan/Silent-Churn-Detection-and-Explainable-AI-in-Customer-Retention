@@ -1,5 +1,6 @@
 # Silent-Churn-Detection-and-Explainable-AI-in-Customer-Retention
 Customer Churn Prediction – Explainable Machine Learning Project
+Dataset for the project : Churn.csv (dataset uploaded in this repo)
 
 This project focuses on predicting customer churn using machine learning techniques while addressing real-world business challenges such as silent churn, lack of sentiment data, and model interpretability.
 
